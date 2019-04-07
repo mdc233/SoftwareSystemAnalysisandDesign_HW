@@ -39,4 +39,7 @@ UML是一种图形语言，用于可视化分析与设计的结果。<br>
 ![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW2.png)
 <br><br>
 2. UML绘图工具练习（提交贴图，必须使用 UMLet）<br>
-      请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）<br>
+      请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）<br><br>
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/UMLHW2.png)      <br><br>
+
+出自《UML和模式应用》的P68
