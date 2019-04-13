@@ -88,9 +88,12 @@ happy path是指一个在执行过程中没有任何异常和错误的场景，�
 4. <br>
 答：首先选择一个用例图:<br>
 
-![image]()
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/%E5%AE%9A%E6%97%85%E9%A6%86%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
 
 
 编写backlog:<br>
 Imp: 重要性,产品负责人评出一个数值，指示这个故事有多重要。例如10或150.分数越高约重要。<br>
 est：初始估算，团队的初步估算，表示与其他故事相比，完成该故事所需的工作量。最小的单位是故事点(storypoint)，一般大致相当于一个man-day(人天数)，例如把3个人关在一起，大约需要4天时间，那么初始估算的结果就是12个故事点。<br>
+
+
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/%E5%AE%9A%E6%97%85%E9%A6%86backlog.png)
