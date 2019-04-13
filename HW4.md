@@ -111,10 +111,12 @@ est：初始估算，团队的初步估算，表示与其他故事相比，完�
 ![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/TCF.png)
 
 
-因此，TCF = 0.28+0.6 ，UUCP = 8+120+40， Size = 168*0.88 = 147.84
+因此，TCF = 0.28+0.6 ，UUCP = 8+120+40， Size = 168*0.88 = 147.84<br>
 
 2. 同理，依据：<br>
 
 ![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/EF.png)
 
-可知，
+可知， EF = 1.4 - 0.03*23 = 0.71. <br>
+
+3. 由于条件不足，无视H和SE， Effect = Size * EF = 147.84 * 0.71 = 105
