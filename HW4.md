@@ -99,4 +99,22 @@ est：初始估算，团队的初步估算，表示与其他故事相比，完�
 ![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/%E5%AE%9A%E6%97%85%E9%A6%86backlog.png)
 
 5. <br>
-用例点估算成本:<br>
+用例点估算成本的流程如下:<br>
+
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/%E7%94%A8%E4%BE%8B%E7%82%B9%E6%96%B9%E6%B3%95%E6%B5%81%E7%A8%8B.jpg)
+
+根据流程:<br>
+1. 计算Size = UUCP * TCF; UUCP = AW + UCW. 依据：<br>
+
+![image]()
+![image]()
+![image]()
+
+
+因此，TCF = ， UUCP = ， Size = 
+
+2. 同理，依据：<br>
+
+![image]()
+
+可知，
