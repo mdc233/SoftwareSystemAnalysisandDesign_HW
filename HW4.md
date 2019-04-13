@@ -65,7 +65,8 @@ happy path是指一个在执行过程中没有任何异常和错误的场景，�
   * 请用色彩标注出你认为创新（区别于竞争对手的）用例或子用例
   * 尽可能识别外部系统和服务
 
-
+![image1](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW4%E7%BE%8E%E5%9B%A2.png)
+![image1](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW4%E9%A5%BF%E4%BA%86%E4%B9%88.png)
   
 * 然后，回答下列问题：
   * 为什么相似系统的用例图是相似的？
