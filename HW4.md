@@ -106,15 +106,15 @@ est：初始估算，团队的初步估算，表示与其他故事相比，完�
 根据流程:<br>
 1. 计算Size = UUCP * TCF; UUCP = AW + UCW. 依据：<br>
 
-![image]()
-![image]()
-![image]()
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/AW.png)
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/UCW.png)
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/TCF.png)
 
 
-因此，TCF = ， UUCP = ， Size = 
+因此，TCF = 0.28+0.6 ，UUCP = 8+120+40， Size = 168*0.88 = 147.84
 
 2. 同理，依据：<br>
 
-![image]()
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/EF.png)
 
 可知，
