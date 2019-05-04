@@ -28,6 +28,9 @@ make reservation的活动图如下:<br>
 场景二:<br>
 ![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW5_SWIM2.png)
 <br>
+场景三:<br>
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW5_SWIM3.png)
+<br>
 
 
 
