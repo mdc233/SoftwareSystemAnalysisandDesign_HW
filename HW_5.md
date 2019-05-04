@@ -32,6 +32,7 @@ make reservation的活动图如下:<br>
 ![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW5_SWIM3.png)
 <br>
 快递柜系统最终的用例图模型：<br>
-![image]
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW5_Final.png)
+<br>
 
 
