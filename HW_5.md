@@ -16,6 +16,9 @@
 由上文进一步可知,该业务可以分解成:Find Hotel, make reservation, shopping basket, payment<br>
 用例图如下:<br>
 ![image1](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW_5_usercase2.png)
+<br>
+make reservation的活动图如下:<br>
+![image1]()
 
 
 
