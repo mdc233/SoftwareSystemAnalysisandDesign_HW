@@ -14,3 +14,4 @@
 答:<br>
 由文档的TASK可知，该旅馆业务的主要是:Reserve Hotel<br>
 由上文进一步可知,该业务可以分解成:Find Hotel, make reservation, shopping basket, payment<br>
+
