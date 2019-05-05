@@ -12,8 +12,9 @@ Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）<br><br>
 建模要求： 参考练习不能提供足够信息帮助你对订单对象建模，请参考现在 定旅馆 的旅游网站，尽可能分析围绕订单发生的各种情况，直到订单通过销售事件（柜台销售）结束订单。<br><br>
 
 答:<br>
-由HW5中的用例图以及文档可知，<br>
-Make Reservation中有关概念对象有：Hotel，Room，RoomDescription, Reservation
+由HW5中的用例图以及文档中软件界面可知，<br>
+Make Reservation中有关概念对象有：Hotel，Room，RoomDescription, Reservation, Reservation Item<br>
+
 对Make Reservation开展领域建模：<br>
 
 对Payment开展领域建模：<br>
