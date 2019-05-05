@@ -17,7 +17,7 @@ Make Reservation中有关概念对象有：Hotel，Room，RoomDescription, Reser
 Hotel (HotelID/Key ,LocationID/Fkey, Name, Address, BriefIntroduction, MaxDiscount, StarsRating, Favorites, LowestPrice)<br>
 Reservation (ReservationID/Key, Time, CheckInDate, CheckOutDate)<br>
 ReservationItem (ReservationItemID/Key, Time, CheckInDate, CheckoutDate, Price, RoomNums, AdultNums, ChildNums, ChildAges)<br>
-CustomerInfo(CustomerID/Key, Name, SpecialRequirement, IsSmoking)<br>
+Customer(CustomerID/Key, Name, SpecialRequirement, IsSmoking)<br>
 Room (RoomID/Key, Type, isAvailable, Price)<br>
 Room-Description (RoomID/FKey, Type, Total, Price, Description)<br><br>
 对Make Reservation开展领域建模：<br>
