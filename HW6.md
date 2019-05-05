@@ -13,14 +13,15 @@ Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）<br><br>
 
 答:<br>
 由HW5中的用例图以及文档中软件界面可知，<br>
-Make Reservation中有关概念对象有：Hotel，Room，RoomDescription, Reservation, Reservation Item<br>
-Hotel (HotelID/Key ,LocationID/Fkey, Name, Address, BriefIntroduction, MaxDiscount, StarsRating, Favorites, LowestPrice)
-Reservation (ReservationID/Key, Time, CheckInDate, CheckOutDate)
-ReservationItem (ReservationItemID/Key, Time, CheckInDate, CheckoutDate, Price, RoomNums, AdultNums, ChildNums, ChildAges)
-CustomerInfo(CustomerID/Key, Name, SpecialRequirement, IsSmoking)
-Room (RoomID/Key, Type, isAvailable, Price)
-Room-Description (RoomID/FKey, Type, Total, Price, Description)
-
+Make Reservation中有关概念对象有：Hotel，Room，RoomDescription, Reservation, Reservation Item<br><br>
+Hotel (HotelID/Key ,LocationID/Fkey, Name, Address, BriefIntroduction, MaxDiscount, StarsRating, Favorites, LowestPrice)<br>
+Reservation (ReservationID/Key, Time, CheckInDate, CheckOutDate)<br>
+ReservationItem (ReservationItemID/Key, Time, CheckInDate, CheckoutDate, Price, RoomNums, AdultNums, ChildNums, ChildAges)<br>
+CustomerInfo(CustomerID/Key, Name, SpecialRequirement, IsSmoking)<br>
+Room (RoomID/Key, Type, isAvailable, Price)<br>
+Room-Description (RoomID/FKey, Type, Total, Price, Description)<br><br>
 对Make Reservation开展领域建模：<br>
+![image]()
 
 对Payment开展领域建模：<br>
+Payment中有关概念对象有:
