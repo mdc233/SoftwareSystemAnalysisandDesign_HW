@@ -14,6 +14,12 @@ Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）<br><br>
 答:<br>
 由HW5中的用例图以及文档中软件界面可知，<br>
 Make Reservation中有关概念对象有：Hotel，Room，RoomDescription, Reservation, Reservation Item<br>
+Hotel (HotelID/Key ,LocationID/Fkey, Name, Address, BriefIntroduction, MaxDiscount, StarsRating, Favorites, LowestPrice)
+Reservation (ReservationID/Key, Time, CheckInDate, CheckOutDate)
+ReservationItem (ReservationItemID/Key, Time, CheckInDate, CheckoutDate, Price, RoomNums, AdultNums, ChildNums, ChildAges)
+CustomerInfo(CustomerID/Key, Name, SpecialRequirement, IsSmoking)
+Room (RoomID/Key, Type, isAvailable, Price)
+Room-Description (RoomID/FKey, Type, Total, Price, Description)
 
 对Make Reservation开展领域建模：<br>
 
