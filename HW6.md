@@ -13,7 +13,7 @@ Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）<br><br>
 
 答:<br>
 由HW5中的用例图以及文档可知，<br>
-Make Reservation中有关概念对象有：Hotel，Room，RoomDescription
+Make Reservation中有关概念对象有：Hotel，Room，RoomDescription, Reservation
 对Make Reservation开展领域建模：<br>
 
 对Payment开展领域建模：<br>
