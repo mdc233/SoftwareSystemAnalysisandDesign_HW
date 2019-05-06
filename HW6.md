@@ -21,7 +21,7 @@ Customer(CustomerID/Key, Name, SpecialRequirement, IsSmoking)<br>
 Room (RoomID/Key, Type, isAvailable, Price)<br>
 Room-Description (RoomID/FKey, Type, Total, Price, Description)<br><br>
 对Make Reservation开展领域建模：<br>
-![image]()<br>
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW6P1.png)<br>
 
 对Payment开展领域建模：<br>
 Payment中有关概念对象有:CreditCard, CardHolder, Reservation, ReservationItem, CardHolderAddress<br>
@@ -30,7 +30,7 @@ CardHolder(CardHolderID/key, FirstName, LastName, Email)<br>
 CardHolderAddressDetail(CardHolderID/Fkey, Address1, Address2, City, Country, State, PostCode, DaytimeTel, EveningTel)<br><br>
 Reservation (ReservationID/Key, Time, CheckInDate, CheckOutDate)<br>
 ReservationItem (ReservationItemID/Key, Time, CheckInDate, CheckoutDate, PriceList, RoomNums, AdultNums, ChildNums, ChildAges, Total)<br>
-![image]()<br>
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW6P2.png)<br>
 
 
 
