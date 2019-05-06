@@ -25,5 +25,8 @@ Room-Description (RoomID/FKey, Type, Total, Price, Description)<br><br>
 
 对Payment开展领域建模：<br>
 Payment中有关概念对象有:CreditCard, CardHolder, Reservation, ReservationItem, CardHolderAddress<br>
-
-
+CreditCard(CardNumber/Key, Type, CardSecurityCode, ExpiryDate, Balance)<br>
+CardHolder(CardHolderID/key, FirstName, LastName, Email)<br>
+CardHolderAddressDetail(CardHolderID/Fkey, Address1, Address2, City, Country, State, PostCode, DaytimeTel, EveningTel)<br><br>
+Reservation (ReservationID/Key, Time, CheckInDate, CheckOutDate)<br>
+ReservationItem (ReservationItemID/Key, Time, CheckInDate, CheckoutDate, Price, RoomNums, AdultNums, ChildNums, ChildAges)<br>
