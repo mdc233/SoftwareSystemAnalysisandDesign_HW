@@ -32,7 +32,7 @@ Reservation (ReservationID/Key, Time, CheckInDate, CheckOutDate)<br>
 ReservationItem (ReservationItemID/Key, Time, CheckInDate, CheckoutDate, PriceList, RoomNums, AdultNums, ChildNums, ChildAges, Total)<br>
 ![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW6P2.png)<br><br>
 
-使用 UML State Model，对每个订单对象生命周期建模<br>
+使用 UML State Model，对每个订单对象生命周期建模(参考 Asg_RH 文档， 对 Reservation/Order 对象建模。)<br>
 ![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW6P3.png)<br>
 
 
