@@ -30,7 +30,10 @@ CardHolder(CardHolderID/key, FirstName, LastName, Email)<br>
 CardHolderAddressDetail(CardHolderID/Fkey, Address1, Address2, City, Country, State, PostCode, DaytimeTel, EveningTel)<br><br>
 Reservation (ReservationID/Key, Time, CheckInDate, CheckOutDate)<br>
 ReservationItem (ReservationItemID/Key, Time, CheckInDate, CheckoutDate, PriceList, RoomNums, AdultNums, ChildNums, ChildAges, Total)<br>
-![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW6P2.png)<br>
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW6P2.png)<br><br>
+
+使用 UML State Model，对每个订单对象生命周期建模<br>
+![image](https://github.com/mdc233/SoftwareSystemAnalysisandDesign_HW/blob/master/HW6P3.png)<br>
 
 
 
